@@ -1,0 +1,45 @@
+body{
+    color: black;
+    background-color: silver;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic
+   }
+   ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+   }
+   a{
+    color: black;
+   }
+  .barranav{
+    padding: 0px 50px;
+   }
+   p{
+    text-align:left;
+    padding: 30px;
+    }
+   
+   fieldset {
+    border: 20;
+    border-radius: 100px;
+   }
+
+   input, button{
+    border-radius: 100px;
+    font-style: italic;
+    padding: 7px;
+   }
+
+   .button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 17px;
+    margin-bottom: 17px;
+    padding: 7px 7px;
+    position: relative;
+   }
+   
+   
